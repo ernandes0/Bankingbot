@@ -3,9 +3,11 @@
 	🚧  Em construção...  🚧
 </h4>
 
-### Funcionalidades
-- [x] Cadastro de usuário
-- [ ] Consulta de saldo
+<h3 align="center">Funcionalidades</h3>
+<ul class="contains-task-list" align ="center">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Cadastro de usuário</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Consulta de saldo</li>
+</ul>
 
 
 <p align="center">🚀 O BankingBot é uma aplicação em desenvolvimento para a disciplina: Projeto Interdisciplinar para Sistemas de Informação IV do curso de Sistemas de Informação na Universidade Federal Rural de Pernambuco. O Bot tem o intuito de simular cadastros e consultas bancárias por meio de um chat em texto.</p>
